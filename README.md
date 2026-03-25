@@ -45,7 +45,6 @@ npm run dev
 ```
 
 Frontend จะรันที่ `http://localhost:5173`
-(Vite จะ proxy `/api` → `http://localhost:5130` ให้อัตโนมัติ)
 
 ### 3. Unit Tests
 
