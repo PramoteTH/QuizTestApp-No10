@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.db
+
+# appsettings secrets (keep base, ignore environment-specific)
+appsettings.Development.json
+appsettings.Production.json
+
+# Node / Vue
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
